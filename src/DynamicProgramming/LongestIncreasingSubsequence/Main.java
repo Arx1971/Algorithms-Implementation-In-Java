@@ -1,6 +1,4 @@
-package DynamicProgramming.LongestCommonSubsequence;
-
-import java.util.Arrays;
+package DynamicProgramming.LongestIncreasingSubsequence;
 
 public class Main {
 
