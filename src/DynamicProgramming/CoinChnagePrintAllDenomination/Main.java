@@ -1,4 +1,4 @@
-package GreedyAlgorithms.CoinChnagePrintAllDenomination;
+package DynamicProgramming.CoinChnagePrintAllDenomination;
 
 import java.util.ArrayList;
 import java.util.Arrays;

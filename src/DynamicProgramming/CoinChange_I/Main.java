@@ -1,4 +1,4 @@
-package GreedyAlgorithms.CoinChange_I;
+package DynamicProgramming.CoinChange_I;
 
 import java.util.Arrays;
 
