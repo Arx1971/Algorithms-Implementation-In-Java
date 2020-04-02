@@ -24,10 +24,10 @@ public class Main {
 
         boolean visited[] = new boolean[node];
 
-        depthFirstSearch(graph, 0, visited, new Stack<>());
+        depthFirstSearch(graph, 0, visited);
     }
 
-    public static void depthFirstSearch(Map<Integer, List<Integer>> graph, int node, boolean[] visited, Stack<Integer> stack) {
+    public static void depthFirstSearch(Map<Integer, List<Integer>> graph, int node, boolean[] visited) {
 
         visited[node] = true;
 
@@ -38,10 +38,10 @@ public class Main {
         for (int i = 0; i < nodes.size(); i++) {
             if (!visited[nodes.get(i)]) {
                 visited[nodes.get(i)] = true;
-                depthFirstSearch(graph, nodes.get(i), visited, stack);
+                depthFirstSearch(graph, nodes.get(i), visited);
             }
         }
-        stack.push(node);
+
     }
 
 }
