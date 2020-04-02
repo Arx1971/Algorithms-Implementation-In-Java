@@ -23,11 +23,11 @@ public class Main {
         boolean[] visited = new boolean[nodes];
         int[] distanceArray;
 
-        distanceArray = BreadthFirstSearch(graph, 0, visited);
+        distanceArray = BreadthFirstSearch(graph, 2, visited);
 
         System.out.println(Arrays.toString(distanceArray));
 
-        System.out.println(distanceArray[3]);
+        System.out.println(distanceArray[1]);
 
     }
 
@@ -35,7 +35,7 @@ public class Main {
 
         int[] distanceArray = new int[visited.length];
 
-        distanceArray[src] = 1;
+        distanceArray[src] = 0;
         visited[src] = true;
 
         Queue<Integer> queue = new LinkedList<>();
