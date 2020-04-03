@@ -32,18 +32,20 @@ public class Main {
         visited[src] = true;
         set.add(src);
 
-        List<Integer> edges = graph.get(src);
+        List<Integer> list = graph.get(src);
 
-        for (int i = 0; i < edges.size(); i++) {
-            if (!visited[edges.get(i)])
-                if (isCycleExistInGraph(edges.get(i), graph, visited, set))
-                    return true;
-                else if (set.contains(edges.get(i)))
-                    return true;
+        for (int i = 0; i < list.size(); i++) {
+            if (!visited[list.get(i)]) {
+                if (isCycleExistInGraph(list.get(i), graph, visited, set)) return true;
+            } else if (set.contains(list.get(i))) {
+                return true;
+            }
         }
+
         set.remove(src);
 
         return false;
+
     }
 
 }
