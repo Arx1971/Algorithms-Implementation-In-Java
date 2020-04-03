@@ -1,4 +1,4 @@
-package GraphTraversal.DepthFirstSearch;
+package Graph.DepthFirstSearch;
 
 import java.util.*;
 

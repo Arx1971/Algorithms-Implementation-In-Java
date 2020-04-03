@@ -1,4 +1,4 @@
-package GraphTraversal.FindingCycleInDirectedGraph;
+package Graph.FindingCycleInDirectedGraph;
 
 import java.util.*;
 
