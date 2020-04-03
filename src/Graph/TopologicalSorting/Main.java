@@ -5,68 +5,59 @@ import java.util.*;
 public class Main {
 
     public static void main(String args[]) {
-        TopologicalSorting(new int[][]{{5, 0}, {5, 2}, {2, 3}, {4, 0}, {1, 3}}, 6);
+
+        System.out.println(Arrays.toString(findOrder(4, new int[][]{{1, 0}, {2, 0}, {3, 1}, {3, 2}})));
+
     }
 
-
-    public static void TopologicalSorting(int[][] edges, int nodes) {
+    public static int[] findOrder(int numCourses, int[][] prerequisites) {
 
         Map<Integer, List<Integer>> graph = new HashMap<>();
 
-        for (int i = 0; i < nodes; i++)
+        for (int i = 0; i < numCourses; i++)
             graph.put(i, new ArrayList<>());
 
-        for (int i = 0; i < edges.length; i++) {
-            graph.get(edges[i][0]).add(edges[i][1]);
+        for (int i = 0; i < prerequisites.length; i++) {
+            graph.get(prerequisites[i][0]).add(prerequisites[i][1]);
         }
 
-        boolean[] visited = new boolean[nodes];
+        boolean visited[] = new boolean[numCourses];
+        Stack<Integer> stack = new Stack<>();
 
-        if (GraphHasCycle(graph, 0, new HashSet<>(), visited)) {
-            System.out.println("Graph Has Cycle in it");
-            return;
-        }
+        Set<Integer> set = new HashSet<>();
 
-        Arrays.fill(visited, false);
-        Stack<Integer> sortedList = new Stack<>();
-        for (int i = 0; i < nodes; i++)
+        for (int i = 0; i < numCourses; i++) {
             if (!visited[i])
-                topologicalSort(graph, i, visited, sortedList);
-
-        System.out.println(sortedList);
-
-    }
-
-    public static void topologicalSort(Map<Integer, List<Integer>> graph, int src, boolean[] visited, Stack<Integer> stack) {
-
-        visited[src] = true;
-
-        List<Integer> edges = graph.get(src);
-
-        for (int i = 0; i < edges.size(); i++) {
-            if (!visited[edges.get(i)]) {
-                topologicalSort(graph, edges.get(i), visited, stack);
-            }
+                if (hasCycle(graph, i, set, stack, visited)) return new int[]{};
         }
-        stack.add(src);
+
+
+        int[] solution = new int[numCourses];
+
+        for (int i = solution.length - 1; i >= 0; i--)
+            solution[i] = stack.pop();
+
+        return solution;
     }
 
-    public static boolean GraphHasCycle(Map<Integer, List<Integer>> graph, int src, Set<Integer> set, boolean[] visited) {
+    public static boolean hasCycle(Map<Integer, List<Integer>> graph, int src, Set<Integer> set, Stack<Integer> stack, boolean visited[]) {
 
         visited[src] = true;
-
         set.add(src);
 
         List<Integer> edges = graph.get(src);
 
         for (int i = 0; i < edges.size(); i++) {
             if (!visited[edges.get(i)]) {
-                if (GraphHasCycle(graph, edges.get(i), set, visited)) return true;
-            } else if (set.contains(edges.get(i))) return true;
+                if (hasCycle(graph, edges.get(i), set, stack, visited)) return true;
+            } else if (set.contains(edges.get(i))) {
+                return true;
+            }
         }
+        stack.add(src);
         set.remove(src);
+
         return false;
     }
-
 
 }
