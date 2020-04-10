@@ -18,3 +18,17 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/FindingCycleInDirectedGraph">Find Cycle In Graph</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/TopologicalSorting">Topological Sorting</a></li>
 </ol>
+
+<h4>Sliding Window </h4>
+<ol>
+        <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/SlidingWindow/SmallestClosestNumber">Smallest Closest Number</a></li>
+        <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/SlidingWindow/SubArraySum">Sub Array Sum</a></li>
+        <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/SlidingWindow/minimumWindowSubstring">Minimum Window Substring</a></li>
+        <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/SlidingWindow/slidingWindowMaximum">Sliding Window Maximum</a></li>
+</ol>
+
+<h4>String Manipulation</h4>
+<ol>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/LongestPalindromicSubstring">Longest Palindromic Substring</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/Trie">Trie</a></li>
+</ol>
