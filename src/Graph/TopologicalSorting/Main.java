@@ -7,7 +7,7 @@ public class Main {
     public static void main(String args[]) {
 
         System.out.println(Arrays.toString(findOrder(4, new int[][]{{1, 0}, {2, 0}, {3, 1}, {3, 2}})));
-
+        System.out.println(Arrays.toString(findOrder(5, new int[][]{{0, 1}, {0, 2}, {3, 2}, {3, 4}})));
     }
 
     public static int[] findOrder(int numCourses, int[][] prerequisites) {
