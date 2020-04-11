@@ -8,7 +8,7 @@ public class Main {
     public static void main(String args[]) {
 
         Graph(new int[][]{{0, 1}, {0, 2}, {3, 2}, {3, 4}}, 5);
-
+        Graph(new int[][]{{0, 2}, {1, 2}, {3, 0}, {1, 3}, {3, 5}, {4, 5}, {4, 2}, {5, 2}, {4, 6}, {6, 8}, {8, 7}, {7, 6}}, 9);
     }
 
     public static void Graph(int[][] edges, int nodes) {
