@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String args[]) {
 
-        DijkstraShortestPath(new int[][]{{0, 1, 4}, {0, 2, 2}, {2, 4, 10},
-                {1, 3, 5}, {1, 2, 1}, {2, 3, 8}, {3, 4, 2}, {4, 5, 3}, {3, 5, 6}}, 6, 0, 5);
+        DijkstraShortestPath(new int[][]{{0, 3, 1}, {0, 1, 4}, {0, 2, 2}, {2, 4, 10},
+                {1, 3, 5}, {1, 2, 1}, {2, 3, 8}, {3, 4, 2}, {4, 5, 3}, {3, 5, 6}, {3, 5, 1}}, 6, 0, 5);
 
     }
 
@@ -15,6 +15,8 @@ public class Main {
 
         int[] distance = new int[nodes];
         boolean[] visited = new boolean[nodes];
+
+        System.out.println(Arrays.toString(visited));
 
         Arrays.fill(distance, Integer.MAX_VALUE);
 
@@ -28,6 +30,8 @@ public class Main {
             graph.get(edges[i][0]).add(new Node(edges[i][1], edges[i][2]));
             graph.get(edges[i][1]).add(new Node(edges[i][0], edges[i][2]));
         }
+
+        System.out.println(graph);
 
         dijkstra(graph, visited, distance, src);
 
@@ -47,7 +51,10 @@ public class Main {
         while (!pq.isEmpty()) {
 
             Node parent = pq.poll();
+
             visited[parent.v] = true;
+
+            System.out.println(parent);
 
             List<Node> nodes = graph.get(parent.v);
 
@@ -55,6 +62,8 @@ public class Main {
                 Node n = nodes.get(i);
                 int child = n.v;
                 int w = n.cost;
+                if (visited[child]) continue;
+
                 if (distance[child] > distance[parent.v] + w) {
                     distance[child] = distance[parent.v] + w;
                     pq.add(new Node(child, distance[child]));
