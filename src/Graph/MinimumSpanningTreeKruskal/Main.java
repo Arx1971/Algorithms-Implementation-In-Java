@@ -12,6 +12,8 @@ public class Main {
         minimumSpanningTree(new int[][]{{0, 1, 6}, {0, 2, 3}, {0, 4, 7}, {1, 3, 9}, {1, 4, 5}, {1, 2, 4},
                 {2, 4, 2}, {3, 4, 8}, {3, 5, 8}, {4, 5, 1}});
 
+        minimumSpanningTree(new int[][]{{0, 1, 1}, {1, 3, 5}, {2, 3, 1}, {0, 2, 1}, {2, 1, 1}});
+
     }
 
     public static void minimumSpanningTree(int[][] graph) {
