@@ -16,7 +16,6 @@ public class Main {
         int[] distance = new int[nodes];
         boolean[] visited = new boolean[nodes];
 
-        System.out.println(Arrays.toString(visited));
 
         Arrays.fill(distance, Integer.MAX_VALUE);
 
@@ -30,8 +29,6 @@ public class Main {
             graph.get(edges[i][0]).add(new Node(edges[i][1], edges[i][2]));
             graph.get(edges[i][1]).add(new Node(edges[i][0], edges[i][2]));
         }
-
-        System.out.println(graph);
 
         dijkstra(graph, visited, distance, src);
 
