@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph/MinimumSpanningTreeKruskal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/MinimumSpanningTreeKruskal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +230,7 @@
       <workItem from="1586535515810" duration="15153000" />
       <workItem from="1586626391909" duration="8492000" />
       <workItem from="1586710651282" duration="599000" />
-      <workItem from="1586718819101" duration="9413000" />
+      <workItem from="1586718819101" duration="9535000" />
     </task>
     <servers />
   </component>

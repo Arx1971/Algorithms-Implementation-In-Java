@@ -20,7 +20,8 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/FindingCycleInDirectedGraph">Find Cycle In Graph</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/TopologicalSorting">Topological Sorting</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/KosaRajuStronglyConnectedComponent">KosaRaju Strongly Connected Component</a></li>
-    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/BridgesInGraph">Tarjan Algorithm Remove Bridges</a></li>    
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/BridgesInGraph">Tarjan Algorithm Remove Bridges</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/MinimumSpanningTreeKruskal">Minimum Spanning Tree - Kruskal</a></li>    
 </ol>
 
 <h4>Sliding Window </h4>
