@@ -27,7 +27,9 @@ public class Main {
         for (int i = 0; i < graph.length; i++)
             priorityQueue.add(new Edge(graph[i][0], graph[i][1], graph[i][2]));
 
-        int parent[] = new int[nodes];
+        int[] parent = new int[nodes];
+
+        /** make set **/
 
         for (int i = 0; i < nodes; i++)
             parent[i] = i;
@@ -37,10 +39,10 @@ public class Main {
 
             Edge edge = priorityQueue.poll();
 
-            int x = find(parent, edge.src);     // find the parent of source
-            int y = find(parent, edge.dst);     // find the parent of destination
+            int x = find(parent, edge.src);     /** find the parent of source **/
+            int y = find(parent, edge.dst);     /** find the parent of destination **/
 
-            if (x != y) {                       // if x==y source and destination are in same set is cycle exist
+            if (x != y) {                       /** if x==y source and destination are in same set, means there is a cycle exist **/
                 minimumDistance += edge.cost;
                 union(parent, x, y);
                 System.out.println(edge);
