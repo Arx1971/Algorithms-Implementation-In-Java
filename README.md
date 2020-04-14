@@ -41,3 +41,8 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/MaximumOccurrenceOfPrefixInTheArray/">Maximum Occurrence Of Prefix In The Array</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/FrequencyOfASubStringInAString/">Frequency Of A SubString In A String</a></li>    
 </ol>
+
+<ol>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/GreatestCommonDivisor/">Greatest Common Divisor</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/LeastCommonMultiple">Least Common Multiple</a></li>
+</ol>
