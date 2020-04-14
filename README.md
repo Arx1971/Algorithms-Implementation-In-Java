@@ -37,5 +37,7 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/LongestPalindromicSubstring">Longest Palindromic Substring</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/Trie">Trie</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/SearchForASubstringInAString">Search For ASubstring In A String</a></li>
-        <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/KMPStringPatternMatch/">KMP String Pattern Match</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/KMPStringPatternMatch/">KMP String Pattern Match</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/MaximumOccurrenceOfPrefixInTheArray/">Maximum Occurrence Of Prefix In The Array</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/FrequencyOfASubStringInAString/">Frequency Of A SubString In A String</a></li>    
 </ol>
