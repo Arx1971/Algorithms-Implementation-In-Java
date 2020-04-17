@@ -4,11 +4,11 @@ public class Main {
 
     public static void main(String args[]) {
 
-        System.out.println(longestCommonSubsequence(new int[]{6, 2, 5, 1, 7, 4, 8, 3}));
+        System.out.println(longestIncreasingSubsequence(new int[]{6, 2, 5, 1, 7, 4, 8, 3}));
 
     }
 
-    public static int longestCommonSubsequence(int[] arr) {
+    public static int longestIncreasingSubsequence(int[] arr) {
 
         int dp[] = new int[arr.length];
 
