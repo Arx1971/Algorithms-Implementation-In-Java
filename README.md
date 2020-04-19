@@ -42,6 +42,7 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/FrequencyOfASubStringInAString/">Frequency Of A SubString In A String</a></li>    
 </ol>
 
+<h4>Number Theory</h4>
 <ol>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/GreatestCommonDivisor/">Greatest Common Divisor</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/LeastCommonMultiple">Least Common Multiple</a></li>
