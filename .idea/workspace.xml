@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms-Implementation-In-Java/DynamicProgramming/LongestCommonSubstring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms-Implementation-In-Java/DynamicProgramming/LongestCommonSubstring/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms-Implementation-In-Java/Graph/BridgesInGraph/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms-Implementation-In-Java/Graph/BridgesInGraph/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +33,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Amazon-Coding-Challenge" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.LongestIncreasingSubsequence.Main" />
       <module name="Algorithms-Implementation-In-Java" />
@@ -63,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.LongestCommonSubstring.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManipulation.StringHashing.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.LongestCommonSubstring.*" />
+          <option name="PATTERN" value="StringManipulation.StringHashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberTheory.GreatestCommonDivisor.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.LongestCommonSubstring.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NumberTheory.GreatestCommonDivisor.*" />
+          <option name="PATTERN" value="DynamicProgramming.LongestCommonSubstring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +229,8 @@
       <workItem from="1587201049518" duration="613000" />
       <workItem from="1587263550106" duration="599000" />
       <workItem from="1587283732391" duration="27000" />
+      <workItem from="1587359762575" duration="12000" />
+      <workItem from="1587359788181" duration="1004000" />
     </task>
     <servers />
   </component>
@@ -239,6 +238,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2497" y="203" width="800" height="712" key="#Plugins" timestamp="1587359817936">
+      <screen x="1920" y="20" width="1920" height="1080" />
+    </state>
+    <state x="2497" y="203" width="800" height="712" key="#Plugins/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1587359817936" />
     <state x="2658" y="263" width="478" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1586728770484">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
