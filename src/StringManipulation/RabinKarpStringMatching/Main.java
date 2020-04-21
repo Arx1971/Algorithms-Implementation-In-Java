@@ -21,8 +21,8 @@ public class Main {
         int prime = 31;
 
         for (int i = 0; i < pattern.length(); i++) {
-            patternHash += (pattern.charAt(i) - 'a' + 1) * prime;
-            tHash += (text.charAt(i) - 'a' + 1) * prime;
+            patternHash += (pattern.charAt(i)) * prime;
+            tHash += (text.charAt(i)) * prime;
         }
 
         List<Integer> textHash = new ArrayList<>();
@@ -37,7 +37,7 @@ public class Main {
 
 
         for (int i = 0; i < text.length(); i++) {
-            textHash.add((text.charAt(i) - 'a' + 1) * prime);
+            textHash.add((text.charAt(i)) * prime);
         }
 
         for (int i = 1; i < text.length() - pattern.length() + 1; i++) {
