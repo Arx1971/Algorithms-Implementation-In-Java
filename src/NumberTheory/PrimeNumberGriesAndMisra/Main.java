@@ -25,9 +25,7 @@ public class Main {
             for (int j = 0; j < primes.size() && primes.get(j) <= lp[i] && i * primes.get(j) <= n; j++)
                 lp[i * primes.get(j)] = lp[i];
         }
-
         return primes;
-
     }
 
 }
