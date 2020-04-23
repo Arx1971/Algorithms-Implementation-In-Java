@@ -47,4 +47,5 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/GreatestCommonDivisor/">Greatest Common Divisor</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/LeastCommonMultiple">Least Common Multiple</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/SievePrime">Sieve Prime</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/PrimeNumberGriesAndMisra">Prime Number Gries And Misra</a></li>
 </ol>
