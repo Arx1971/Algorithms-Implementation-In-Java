@@ -35,7 +35,6 @@
 <h4>String Manipulation</h4>
 <ol>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/LongestPalindromicSubstring">Longest Palindromic Substring</a></li>
-    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/Trie">Trie</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/SearchForASubstringInAString">Search For ASubstring In A String</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/KMPStringPatternMatch/">KMP String Pattern Match</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/MaximumOccurrenceOfPrefixInTheArray/">Maximum Occurrence Of Prefix In The Array</a></li>
@@ -50,4 +49,10 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/PrimeNumberGriesAndMisra">Prime Number Gries And Misra</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/IntegerFactorization">Integer Factorization</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/PrimeFactorization">Integer Factorization using Prime Numbers</a></li>
+</ol>
+
+<h4>String Manipulation</h4>
+<ol>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/AdvancedDataStructure/DisjointSetUnion">Disjoint Set Union</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/AdvancedDataStructure/Trie">Trie</a></li>
 </ol>
