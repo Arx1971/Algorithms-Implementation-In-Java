@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/DisjointSetUnion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedDataStructure/DisjointSetUnion/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringManipulation/Trie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedDataStructure/Trie/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +206,7 @@
       <workItem from="1587695086455" duration="690000" />
       <workItem from="1587701682915" duration="3926000" />
       <workItem from="1587715559357" duration="3153000" />
-      <workItem from="1588649734271" duration="392000" />
+      <workItem from="1588649734271" duration="468000" />
     </task>
     <servers />
   </component>

@@ -51,7 +51,7 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/PrimeFactorization">Integer Factorization using Prime Numbers</a></li>
 </ol>
 
-<h4>String Manipulation</h4>
+<h4>Advanced Data Structure</h4>
 <ol>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/AdvancedDataStructure/DisjointSetUnion">Disjoint Set Union</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/AdvancedDataStructure/Trie">Trie</a></li>
