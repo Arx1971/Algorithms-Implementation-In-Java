@@ -56,3 +56,9 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/AdvancedDataStructure/DisjointSetUnion">Disjoint Set Union</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/AdvancedDataStructure/Trie">Trie</a></li>
 </ol>
+
+<h4>Bit Manipulation</h4>
+<ol>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BitManipulation/BasicsOperators">Basics Operators</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BitManipulation/BitShifting">Bit Shifting</a></li>
+</ol>
