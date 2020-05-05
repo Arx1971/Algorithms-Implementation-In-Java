@@ -6,6 +6,7 @@ public class Main {
         System.out.println(bitwiseNot(5));
         System.out.println(bitwiseOr(2, 3));
         System.out.println(bitwiseAnd(2, 3));
+        System.out.println(bitwiseXor(2, 3));
     }
 
     public static int bitwiseNot(int number) {
@@ -31,6 +32,17 @@ public class Main {
          *  a & b = 0010 = 2
          * **/
         return a & b;
+    }
+
+    public static int bitwiseXor(int a, int b) {
+
+        /**
+         *  a = 2 = 0010
+         *  b = 3 = 0011
+         *  a ^ b = 0001 = 1
+         * **/
+
+        return a ^ b;
     }
 
 }
