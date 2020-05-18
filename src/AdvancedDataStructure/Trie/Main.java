@@ -1,4 +1,4 @@
-package StringManipulation.Trie;
+package AdvancedDataStructure.Trie;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package DataStructure.DisjointSetUnion;
+package AdvancedDataStructure.DisjointSetUnion;
 
 import java.util.Arrays;
 
