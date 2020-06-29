@@ -40,7 +40,8 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/MaximumOccurrenceOfPrefixInTheArray/">Maximum Occurrence Of Prefix In The Array</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/FrequencyOfASubStringInAString/">Frequency Of A SubString In A String</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/ComputeHash/">String Hashing</a></li>
-    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/CountNumberUniqueSubStrings/">Number of Unique Substring of given String</a></li>    
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/CountNumberUniqueSubStrings/">Number of Unique Substring of given String</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/FindAllUniqueSubstringOfString/">Find All Unique Substring of a String</a></li>    
 </ol>
 
 <h4>Number Theory</h4>
