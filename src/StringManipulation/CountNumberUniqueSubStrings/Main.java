@@ -35,7 +35,7 @@ public class Main {
         for (int i = 1; i <= str.length(); i++) {
             Set<Integer> set = new HashSet<>();
             for (int j = 0; j <= str.length() - i; j++) {
-                int cur_hash = (hash[j + 1] + m - hash[i]) % m;
+                int cur_hash = (hash[j + 1] + m - hash[j]) % m;
                 cur_hash = (cur_hash * p_pow[str.length() - j - 1]) % m;
                 set.add(cur_hash);
             }
