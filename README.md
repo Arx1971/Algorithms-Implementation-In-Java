@@ -8,7 +8,8 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/WildCardMatching">Wild Card Matching</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/knapsack01">0-1 Kanpsack</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/RegularExpressionMatching">Regular Expression Matching</a></li>
-     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/PalindromePartitioning">Minimum Cut Palindrome Partitioning</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/PalindromePartitioning">Minimum Cut Palindrome Partitioning</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/MaximalRectangleAreaInHistogram">Maximal Rectangle Area In Histogram</a></li>
 </ol>
 
 <h4>Graph</h4>
