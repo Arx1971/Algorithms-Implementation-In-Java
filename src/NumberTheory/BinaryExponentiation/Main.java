@@ -33,7 +33,6 @@ public class Main {
                 b /= 2;
             }
             return result;
-
         }
     }
 
