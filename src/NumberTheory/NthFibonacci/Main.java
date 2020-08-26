@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println(((powPhiPos - powPhiNeg) / Math.sqrt(5)));*/
 
-        nthFib = (long) Math.round(((powPhiPos) / Math.sqrt(5)));
+        nthFib = Math.round(((powPhiPos) / Math.sqrt(5)));
 
         return nthFib;
     }
