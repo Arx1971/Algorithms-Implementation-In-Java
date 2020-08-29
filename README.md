@@ -44,6 +44,8 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/CountNumberUniqueSubStrings/">Number of Unique Substring of given String</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/FindAllUniqueSubstringOfString/">Find All Unique Substring of a String</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/AllTheSubstringOfAString/">Find All Substring of a String</a></li>    
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/CountNumberOfPalindromicSubstringInAString">Count Number Of Palindromic Substring In A String</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/StringManipulation/PrintAllPalindromicSubstring/">Print All Palindromic Substring</a></li>
 </ol>
 
 <h4>Number Theory</h4>
