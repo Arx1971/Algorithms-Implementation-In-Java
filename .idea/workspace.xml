@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch/KthSmallesNumberInMatrix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/KthSmallesNumberInMatrix/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cluster-Optimization-HashTable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Hands-On-Development" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.KthSmallesNumberInMultiplicationTable.Main" />
       <module name="Algorithms-Implementation-In-Java" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManipulation.PrintAllPalindromicSubstring.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GridSeachProblem.DepthFirstSearch.MaxAreaOfIsland.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringManipulation.PrintAllPalindromicSubstring.*" />
+          <option name="PATTERN" value="GridSeachProblem.DepthFirstSearch.MaxAreaOfIsland.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,26 +124,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +236,8 @@
       <workItem from="1598463704579" duration="291000" />
       <workItem from="1598472966574" duration="1856000" />
       <workItem from="1598712122801" duration="8828000" />
-      <workItem from="1598909848712" duration="3276000" />
+      <workItem from="1598909848712" duration="3973000" />
+      <workItem from="1598990137095" duration="654000" />
     </task>
     <servers />
   </component>
@@ -262,26 +261,26 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2682" y="342" key="#com.intellij.fileTypes.FileTypeChooser/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598357212660" />
-    <state x="2722" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598372414490">
+    <state x="2722" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598919290344">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2722" y="297" key="FileChooserDialogImpl/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598372414490" />
-    <state width="443" height="952" key="GridCell.Tab.0.bottom" timestamp="1598917393540">
+    <state x="2722" y="297" key="FileChooserDialogImpl/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598919290344" />
+    <state width="443" height="952" key="GridCell.Tab.0.bottom" timestamp="1598919291625">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="443" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598917393540" />
-    <state width="443" height="952" key="GridCell.Tab.0.center" timestamp="1598917393540">
+    <state width="443" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598919291625" />
+    <state width="443" height="952" key="GridCell.Tab.0.center" timestamp="1598919291625">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="443" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598917393540" />
-    <state width="443" height="952" key="GridCell.Tab.0.left" timestamp="1598917393540">
+    <state width="443" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598919291625" />
+    <state width="443" height="952" key="GridCell.Tab.0.left" timestamp="1598919291625">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="443" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598917393540" />
-    <state width="443" height="952" key="GridCell.Tab.0.right" timestamp="1598917393540">
+    <state width="443" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598919291625" />
+    <state width="443" height="952" key="GridCell.Tab.0.right" timestamp="1598919291625">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="443" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598917393540" />
+    <state width="443" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598919291625" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1593405504459">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
