@@ -69,3 +69,9 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BitManipulation/BasicsOperators">Basics Operators</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BitManipulation/BitShifting">Bit Shifting</a></li>
 </ol>
+
+<h4>Grid Search</h4>
+<ol>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/GridSeachProblem/BreadthFirstSearch/MaxAreaOfIsland">Max Island BFS</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/GridSeachProblem/DepthFirstSearch/MaxAreaOfIsland">Max Island DFS</a></li>
+</ol>
