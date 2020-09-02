@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GridSeachProblem/DepthFirstSearch/NumberOfDistinctIslands/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GridSeachProblem/BreadthFirstSearch/NumberOfDistinctIslands/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GridSeachProblem.DepthFirstSearch.NumberOfDistinctIslands.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.KthSmallesNumberInMatrix.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GridSeachProblem.DepthFirstSearch.NumberOfDistinctIslands.*" />
+          <option name="PATTERN" value="BinarySearch.KthSmallesNumberInMatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.KthSmallesNumberInMatrix.Main" />
+      <option name="MAIN_CLASS_NAME" value="GridSeachProblem.BreadthFirstSearch.NumberOfDistinctIslands.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.KthSmallesNumberInMatrix.*" />
+          <option name="PATTERN" value="GridSeachProblem.BreadthFirstSearch.NumberOfDistinctIslands.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,7 +238,7 @@
       <workItem from="1598472966574" duration="1856000" />
       <workItem from="1598712122801" duration="8828000" />
       <workItem from="1598909848712" duration="3973000" />
-      <workItem from="1598990137095" duration="7505000" />
+      <workItem from="1598990137095" duration="7585000" />
     </task>
     <servers />
   </component>
