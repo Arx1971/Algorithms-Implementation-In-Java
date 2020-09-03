@@ -1,4 +1,4 @@
-package Graph.BipartiteCheckingNoRecursive;
+package Graph.BipartiteCheckingNonRecursive;
 
 import java.util.Stack;
 
