@@ -1,4 +1,4 @@
-package Graph.BipartiteChecking;
+package Graph.BipartiteCheckingRecursive;
 
 import java.util.ArrayList;
 import java.util.HashMap;

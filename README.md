@@ -14,7 +14,7 @@
 
 <h4>Graph</h4>
 <ol>
-    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/BipartiteChecking">Bipartite Checking</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/BipartiteCheckingRecursive">Bipartite Checking</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/BreadthFirstSearch">Breadth First Search</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/DepthFirstSearch">Depth First Search</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Graph/DijkstraSingleSourceShortestPath">Dijkstra Single Source Shortest Path</a></li>
