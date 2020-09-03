@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/BipartiteCheckingNonRecursive/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/BipartiteCheckingNonRecursive/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Hands-On-Development" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -239,7 +242,7 @@
       <workItem from="1598712122801" duration="8828000" />
       <workItem from="1598909848712" duration="3973000" />
       <workItem from="1598990137095" duration="8292000" />
-      <workItem from="1599166486196" duration="250000" />
+      <workItem from="1599166486196" duration="732000" />
     </task>
     <servers />
   </component>
@@ -299,10 +302,10 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state width="1815" height="364" key="GridCell.Tab.1.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1593405504459" />
-    <state x="2452" y="174" key="SettingsEditor" timestamp="1593393116502">
+    <state x="2452" y="174" key="SettingsEditor" timestamp="1599167217010">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2452" y="174" key="SettingsEditor/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1593393116502" />
+    <state x="2452" y="174" key="SettingsEditor/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599167217009" />
     <state x="2074" y="92" width="1674" height="896" key="dock-window-1" timestamp="1598717220963">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
