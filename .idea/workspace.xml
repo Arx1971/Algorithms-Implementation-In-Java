@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph/BipartiteCheckingNonRecursive/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/BipartiteCheckingNonRecursive/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,15 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,7 +239,8 @@
       <workItem from="1598712122801" duration="8828000" />
       <workItem from="1598909848712" duration="3973000" />
       <workItem from="1598990137095" duration="8292000" />
-      <workItem from="1599166486196" duration="732000" />
+      <workItem from="1599166486196" duration="1362000" />
+      <workItem from="1599464980140" duration="288000" />
     </task>
     <servers />
   </component>
