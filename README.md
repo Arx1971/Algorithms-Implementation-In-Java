@@ -84,3 +84,9 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Matrix/GenerateMatrixWithUniqueRowAndColumnValue">Generate Matrix With Unique Row And Column Value</a></li>
     
 </ol>
+
+<h4>Array </h4>
+<ol>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Array/SubArrayWithGivenSum">Sub Array Sum Equals to Target</a></li>
+    
+</ol>

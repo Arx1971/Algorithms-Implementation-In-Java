@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/SubArrayWithGivenSum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/SubArrayWithGivenSum/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SlidingWindow/SubArraySum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SlidingWindow/SubArraySum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +258,7 @@
       <workItem from="1598990137095" duration="8292000" />
       <workItem from="1599166486196" duration="1362000" />
       <workItem from="1599464980140" duration="1720000" />
-      <workItem from="1599472124891" duration="5167000" />
+      <workItem from="1599472124891" duration="5415000" />
     </task>
     <servers />
   </component>
