@@ -11,7 +11,9 @@ public class Main {
         System.out.println(Arrays.deepToString(matrix));
 
     }
-
+    /*
+    * @param 1 matrix size
+    * */
     public static int[][] uniqueMatrixRowAndColumn(int n) {
         int[][] matrix = new int[n][n];
 

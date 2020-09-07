@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Matrix/GenerateMatrixWithUniqueRowAndColumnValue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Matrix/GenerateMatrixWithUniqueRowAndColumnValue/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +257,7 @@
       <workItem from="1598990137095" duration="8292000" />
       <workItem from="1599166486196" duration="1362000" />
       <workItem from="1599464980140" duration="1720000" />
-      <workItem from="1599472124891" duration="2618000" />
+      <workItem from="1599472124891" duration="2691000" />
     </task>
     <servers />
   </component>
