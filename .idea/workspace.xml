@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringManipulation.CountNumberOfPalindromicSubstringInAString.Main" />
       <module name="Algorithms-Implementation-In-Java" />
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GridSeachProblem.BreadthFirstSearch.IslandPerimeter.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.SubArrayWithGivenSum.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GridSeachProblem.BreadthFirstSearch.IslandPerimeter.*" />
+          <option name="PATTERN" value="Array.SubArrayWithGivenSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +257,7 @@
       <workItem from="1598990137095" duration="8292000" />
       <workItem from="1599166486196" duration="1362000" />
       <workItem from="1599464980140" duration="1720000" />
-      <workItem from="1599472124891" duration="2769000" />
+      <workItem from="1599472124891" duration="3761000" />
     </task>
     <servers />
   </component>
@@ -285,22 +285,22 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2722" y="297" key="FileChooserDialogImpl/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598919290344" />
-    <state width="590" height="952" key="GridCell.Tab.0.bottom" timestamp="1599488366591">
+    <state width="505" height="952" key="GridCell.Tab.0.bottom" timestamp="1599490494480">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="590" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599488366591" />
-    <state width="590" height="952" key="GridCell.Tab.0.center" timestamp="1599488366590">
+    <state width="505" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599490494480" />
+    <state width="505" height="952" key="GridCell.Tab.0.center" timestamp="1599490494480">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="590" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599488366590" />
-    <state width="590" height="952" key="GridCell.Tab.0.left" timestamp="1599488366590">
+    <state width="505" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599490494480" />
+    <state width="505" height="952" key="GridCell.Tab.0.left" timestamp="1599490494480">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="590" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599488366590" />
-    <state width="590" height="952" key="GridCell.Tab.0.right" timestamp="1599488366591">
+    <state width="505" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599490494480" />
+    <state width="505" height="952" key="GridCell.Tab.0.right" timestamp="1599490494480">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="590" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599488366591" />
+    <state width="505" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599490494480" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1593405504459">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>

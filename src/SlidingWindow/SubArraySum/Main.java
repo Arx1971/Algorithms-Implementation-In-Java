@@ -1,6 +1,5 @@
 package SlidingWindow.SubArraySum;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Main {
@@ -11,7 +10,7 @@ public class Main {
 
     }
 
-    public static int[] subArraySumEqualsToTarget(int nums[], int target) {
+    public static int[] subArraySumEqualsToTarget(int[] nums, int target) {
 
         int left = 0;
         int right = 1;
