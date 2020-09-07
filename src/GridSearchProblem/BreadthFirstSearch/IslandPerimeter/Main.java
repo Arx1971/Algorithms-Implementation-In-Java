@@ -1,4 +1,4 @@
-package GridSeachProblem.BreadthFirstSearch.IslandPerimeter;
+package GridSearchProblem.BreadthFirstSearch.IslandPerimeter;
 
 import java.util.LinkedList;
 import java.util.Queue;

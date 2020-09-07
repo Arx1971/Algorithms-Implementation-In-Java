@@ -1,4 +1,4 @@
-package GridSeachProblem.BreadthFirstSearch.MaxAreaOfIsland;
+package GridSearchProblem.BreadthFirstSearch.MaxAreaOfIsland;
 
 
 import java.util.LinkedList;

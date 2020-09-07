@@ -1,4 +1,4 @@
-package GridSeachProblem.BreadthFirstSearch.NumberOfDistinctIslands;
+package GridSearchProblem.BreadthFirstSearch.NumberOfDistinctIslands;
 
 import java.util.HashSet;
 import java.util.LinkedList;

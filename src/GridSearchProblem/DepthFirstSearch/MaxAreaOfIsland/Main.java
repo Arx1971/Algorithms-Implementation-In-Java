@@ -1,4 +1,4 @@
-package GridSeachProblem.DepthFirstSearch.MaxAreaOfIsland;
+package GridSearchProblem.DepthFirstSearch.MaxAreaOfIsland;
 
 public class Main {
 
