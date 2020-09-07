@@ -78,3 +78,9 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/GridSeachProblem/BreadthFirstSearch/IslandPerimeter">Island Perimeter BFS</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/GridSeachProblem/BreadthFirstSearch/NumberOfDistinctIslands">Number Of Distinct Islands</a></li>
 </ol>
+
+<h4>Matrix Manipulation </h4>
+<ol>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/Matrix/GenerateMatrixWithUniqueRowAndColumnValue">Generate Matrix With Unique Row And Column Value</a></li>
+    
+</ol>
