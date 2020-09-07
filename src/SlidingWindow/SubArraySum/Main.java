@@ -24,9 +24,11 @@ public class Main {
             if (sum == target)
                 return Arrays.copyOfRange(nums, left, right);
         }
-
+        while (left < right) {
+            sum -= nums[left++];
+            if(sum == target) return Arrays.copyOfRange(nums, left, right);
+        }
         return new int[]{-1, -1};
-
     }
 
 }

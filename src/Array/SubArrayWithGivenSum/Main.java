@@ -6,29 +6,29 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println(Arrays.toString(getRange(new int[]{1, 5, 2, 3, 7}, 12)));
+        System.out.println(Arrays.toString(getRange(new int[]{1, 5, 2, 3, 7}, 10)));
 
     }
 
-    public static int[] getRange(int[] arr, int k) {
-        int sum = 0;
-        int i = 0;
-        int j = 1;
-        while (j < arr.length) {
-            sum += arr[j];
-            while (sum > k && i < j) {
-                sum -= arr[i++];
-            }
-            if (sum == k) return new int[]{i + 1, j};
-            j++;
+    public static int[] getRange(int[] nums, int target) {
+        int left = 0;
+        int right = 1;
+        int sum = nums[left];
+
+        while (right < nums.length) {
+            if (sum < target)
+                sum += nums[right++];
+            else sum -= nums[left++];
+
+            if (sum == target)
+                return Arrays.copyOfRange(nums, left, right);
         }
 
-        System.out.println(sum);
-
-        while (sum > k && i < j) {
-            sum -= arr[i++];
-            if (sum == k) return new int[]{i + 1, j};
+        while (left < right) {
+            sum -= nums[left++];
+            if(sum == target) return Arrays.copyOfRange(nums, left, right);
         }
+
         return new int[]{-1, -1};
     }
 
