@@ -101,4 +101,5 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BinarySearch/KthSmallestNumberInMultiplicationTable">K th Smallest Number In Multiplication Table</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BinarySearch/KthSmallestNumberInMatrix">K th Smallest Number In Matrix</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BinarySearch/FindSmallestNumberInRotatedSortedArrayNoDuplicates">Find Smallest Number In Rotated Sorted Array No Duplicates</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BinarySearch/FindSmallestNumberInRotatedSortedArrayDuplicates">Find Smallest Number In Rotated Sorted Array With Duplicates</a></li>
 </ol>
