@@ -1,4 +1,4 @@
-package BinarySearch.KthSmallesNumberInMultiplicationTable;
+package BinarySearch.KthSmallestNumberInMultiplicationTable;
 
 import java.util.PriorityQueue;
 

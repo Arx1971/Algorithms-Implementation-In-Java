@@ -98,6 +98,6 @@
 <h4>Binary Search</h4>
 <ol>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BinarySearch/FindFirstAndLastPositionOfElementInSortedArray">Find First And Last Position Of Element In Sorted Array</a></li>
-    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/SortingAlgorithms/QuickSort">QuickSort</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BinarySearch/KthSmallestNumberInMultiplicationTable">K th Smallest Number In Multiplication Table</a></li>
 </ol>
 
