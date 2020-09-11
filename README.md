@@ -99,5 +99,5 @@
 <ol>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BinarySearch/FindFirstAndLastPositionOfElementInSortedArray">Find First And Last Position Of Element In Sorted Array</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BinarySearch/KthSmallestNumberInMultiplicationTable">K th Smallest Number In Multiplication Table</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/BinarySearch/KthSmallestNumberInMatrix">K th Smallest Number In Matrix</a></li>
 </ol>
-

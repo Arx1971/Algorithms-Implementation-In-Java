@@ -1,4 +1,4 @@
-package BinarySearch.KthSmallesNumberInMatrix;
+package BinarySearch.KthSmallestNumberInMatrix;
 
 import java.util.PriorityQueue;
 
