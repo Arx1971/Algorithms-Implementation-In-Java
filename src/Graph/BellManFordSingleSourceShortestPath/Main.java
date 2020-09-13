@@ -11,7 +11,7 @@ public class Main {
                 {1, 4, 2}, {3, 2, 5},
                 {3, 1, 1}, {4, 3, -3}};
 
-        //bellManFord(graph, 5, 0);
+        bellManFord(graph, 5, 0);
 
         bellManFord(new int[][]{{0, 1, 1}, {1, 0, 3}}, 2, 1);
 
