@@ -9,13 +9,23 @@ public class Main {
 
         String[] words = {"bat", "bad", "ball", "base", "mad", "max", "megatron", "prime", "prince"};
         String[] prefixStrings = {"ba", "ab", "m", "maxx", "meg", "pri", "prim"};
+        String[] searchWords = {"bad", "mad", "badman", "megatrons", "primes", "princes", "prine"};
+
 
         Trie trieStructure = new Trie();
 
         for (String word : words) trieStructure.insert(word);
 
+        System.out.println("Search For Prefix: ");
+
         for (String prefix : prefixStrings) {
             System.out.println(prefix + " " + trieStructure.searchPrefix(prefix));
+        }
+
+        System.out.println("Search For word: ");
+
+        for(String word: searchWords){
+            System.out.println(word + " " + trieStructure.wordSearch(word));
         }
 
     }
