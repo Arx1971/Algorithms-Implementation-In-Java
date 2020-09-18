@@ -63,4 +63,14 @@ class Trie {
         return true;
     }
 
+    public boolean wordSearch(String word) {
+        TrieNode current = root;
+        for (int i = 0; i < word.length(); i++) {
+            TrieNode newNode = current.map.get(word.charAt(i));
+            if (newNode == null) return false;
+            else current = newNode;
+        }
+        return current.isWord;
+    }
+
 }
