@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Search For Prefix: ");
 
         for (String prefix : prefixStrings) {
-            System.out.println(prefix + " " + trieStructure.searchPrefix(prefix));
+            System.out.println(prefix + " " + trieStructure.prefixSearch(prefix));
         }
 
         System.out.println("Search For word: ");
@@ -62,7 +62,7 @@ class Trie {
         current.isWord = true;
     }
 
-    public boolean searchPrefix(String prefix) {
+    public boolean prefixSearch(String prefix) {
         TrieNode current = root;
 
         for (int i = 0; i < prefix.length(); i++) {
