@@ -7,6 +7,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        String[] words = {"bat", "bad", "ball", "base", "mad", "max", "megatron", "prime", "prince"};
+
     }
 }
 
@@ -40,4 +42,9 @@ class Trie {
         }
         current.isWord = true;
     }
+
+    public void searchPrefix(String prefix) {
+
+    }
+
 }
