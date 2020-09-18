@@ -10,7 +10,7 @@ public class Main {
         String[] words = {"bat", "bad", "ball", "base", "mad", "max", "megatron", "prime", "prince"};
         String[] prefixStrings = {"ba", "ab", "m", "maxx", "meg", "pri", "prim"};
         String[] searchWords = {"bad", "mad", "badman", "megatrons", "primes", "princes", "prine"};
-
+        String[] wildWords = {"..d", ".ax", "..a", "b..d", "pr..c.", "..aa"};
 
         Trie trieStructure = new Trie();
 
@@ -24,8 +24,12 @@ public class Main {
 
         System.out.println("Search For word: ");
 
-        for(String word: searchWords){
+        for (String word : searchWords) {
             System.out.println(word + " " + trieStructure.wordSearch(word));
+        }
+
+        for (String word : wildWords) {
+            System.out.println(word + " " + trieStructure.wildCardSearch(word));
         }
 
     }
@@ -81,6 +85,26 @@ class Trie {
             else current = newNode;
         }
         return current.isWord;
+    }
+
+    public boolean wildCardSearch(String word) {
+        return wildCardSearch(word, this.root, 0);
+    }
+
+    public boolean wildCardSearch(String word, TrieNode root, int index) {
+        if (word.length() == index) return root.isWord;
+
+        if (word.charAt(index) == '.') {
+            for (Character ch : root.map.keySet()) {
+                if (wildCardSearch(word, root.map.get(ch), index + 1)) return true;
+            }
+        } else {
+            for (Character ch : root.map.keySet()) {
+                if (word.charAt(index) == ch && wildCardSearch(word, root.map.get(ch), index + 1)) return true;
+            }
+        }
+
+        return false;
     }
 
 }
