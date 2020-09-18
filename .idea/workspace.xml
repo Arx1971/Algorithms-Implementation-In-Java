@@ -61,26 +61,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (6)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.BellManFordSingleSourceShortestPath.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Graph.BellManFordSingleSourceShortestPath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.SubArrayWithGivenSum.Main" />
-      <module name="Algorithms-Implementation-In-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.SubArrayWithGivenSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksForGeeks.CountTheTriplet.Main" />
+    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedDataStructure.Trie.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GeeksForGeeks.CountTheTriplet.*" />
+          <option name="PATTERN" value="AdvancedDataStructure.Trie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (6)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +264,7 @@
       <workItem from="1600025636769" duration="7722000" />
       <workItem from="1600100752889" duration="1200000" />
       <workItem from="1600137515702" duration="6000" />
-      <workItem from="1600468710023" duration="318000" />
+      <workItem from="1600468710023" duration="597000" />
     </task>
     <servers />
   </component>

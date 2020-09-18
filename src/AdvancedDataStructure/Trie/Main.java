@@ -8,6 +8,15 @@ public class Main {
     public static void main(String[] args) {
 
         String[] words = {"bat", "bad", "ball", "base", "mad", "max", "megatron", "prime", "prince"};
+        String[] prefixStrings = {"ba", "ab", "m", "maxx", "meg", "pri", "prim"};
+
+        Trie trieStructure = new Trie();
+
+        for (String word : words) trieStructure.insert(word);
+
+        for (String prefix : prefixStrings) {
+            System.out.println(prefix + " " + trieStructure.searchPrefix(prefix));
+        }
 
     }
 }
@@ -43,8 +52,15 @@ class Trie {
         current.isWord = true;
     }
 
-    public void searchPrefix(String prefix) {
+    public boolean searchPrefix(String prefix) {
+        TrieNode current = root;
 
+        for (int i = 0; i < prefix.length(); i++) {
+            TrieNode newNode = current.map.get(prefix.charAt(i));
+            if (newNode == null) return false;
+            else current = newNode;
+        }
+        return true;
     }
 
 }
