@@ -46,7 +46,7 @@ public class Main {
 
 class Trie {
 
-    public class TrieNode {
+    public static class TrieNode {
         Map<Character, TrieNode> map;
         boolean isWord;
 
