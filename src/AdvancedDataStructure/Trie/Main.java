@@ -12,6 +12,10 @@ public class Main {
         String[] searchWords = {"bad", "mad", "badman", "megatrons", "primes", "princes", "prine"};
         String[] wildWords = {"..d", ".ax", "..a", "b..d", "pr..c.", "..aa"};
 
+        /*
+         * Basic Trie Operations
+         * */
+
         Trie trieStructure = new Trie();
 
         for (String word : words) trieStructure.insert(word);
@@ -32,7 +36,12 @@ public class Main {
             System.out.println(word + " " + trieStructure.wildCardSearch(word));
         }
 
+        /* Longest Common Prefix Using Trie*/
+
+        System.out.println(new Trie().longestCommonPrefix(new String[]{"flower", "flow"}));
     }
+
+
 }
 
 class Trie {
@@ -107,4 +116,33 @@ class Trie {
         return false;
     }
 
+    public String longestCommonPrefix(String[] words) {
+        if (words.length == 0) return "";
+        Trie trie = new Trie();
+        String searchString = null;
+        for (String word : words) {
+            if (searchString == null) {
+                searchString = word;
+            } else if (searchString.length() > word.length()) {
+                searchString = word;
+            }
+            trie.insert(word);
+        }
+        return trie.commonPrefix(searchString);
+    }
+
+    public String commonPrefix(String word) {
+        TrieNode current = root;
+        if (current.map.size() > 1) return "";
+        String longestCommonPrefix = "";
+        for (int i = 0; i < word.length(); i++) {
+            TrieNode newNode = current.map.get(word.charAt(i));
+            if (newNode == null || newNode.map.size() > 1) return longestCommonPrefix + word.charAt(i);
+            else {
+                longestCommonPrefix += word.charAt(i);
+                current = newNode;
+            }
+        }
+        return longestCommonPrefix;
+    }
 }
