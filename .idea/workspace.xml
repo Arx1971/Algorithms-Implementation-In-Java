@@ -61,7 +61,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.BellManFordSingleSourceShortestPath.Main" />
       <module name="Algorithms-Implementation-In-Java" />
@@ -81,19 +81,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DynamicProgramming.NthUglyNumbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindFirstAndLastPositionOfElementInSortedArray.Main" />
-      <module name="Algorithms-Implementation-In-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.FindFirstAndLastPositionOfElementInSortedArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.NthCatalanNumbers.Main" />
+      <module name="Algorithms-Implementation-In-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProgramming.NthCatalanNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (6)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +253,7 @@
       <workItem from="1600137515702" duration="6000" />
       <workItem from="1600468710023" duration="6419000" />
       <workItem from="1600528255906" duration="24000" />
-      <workItem from="1600531005781" duration="5004000" />
+      <workItem from="1600531005781" duration="6501000" />
     </task>
     <servers />
   </component>
@@ -285,22 +285,22 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2722" y="297" key="FileChooserDialogImpl/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1598919290344" />
-    <state width="502" height="952" key="GridCell.Tab.0.bottom" timestamp="1600536376023">
+    <state width="502" height="952" key="GridCell.Tab.0.bottom" timestamp="1600540688728">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="502" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600536376023" />
-    <state width="502" height="952" key="GridCell.Tab.0.center" timestamp="1600536376023">
+    <state width="502" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600540688728" />
+    <state width="502" height="952" key="GridCell.Tab.0.center" timestamp="1600540688728">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="502" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600536376023" />
-    <state width="502" height="952" key="GridCell.Tab.0.left" timestamp="1600536376022">
+    <state width="502" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600540688728" />
+    <state width="502" height="952" key="GridCell.Tab.0.left" timestamp="1600540688727">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="502" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600536376022" />
-    <state width="502" height="952" key="GridCell.Tab.0.right" timestamp="1600536376023">
+    <state width="502" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600540688727" />
+    <state width="502" height="952" key="GridCell.Tab.0.right" timestamp="1600540688728">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="502" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600536376023" />
+    <state width="502" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600540688728" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1600477595787">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
@@ -321,6 +321,10 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2452" y="174" key="SettingsEditor/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599466007525" />
+    <state x="2728" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600537159934">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2728" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600537159934" />
     <state x="2074" y="92" width="1674" height="896" key="dock-window-1" timestamp="1599534528419">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
