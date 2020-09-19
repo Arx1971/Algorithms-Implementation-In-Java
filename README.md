@@ -10,6 +10,7 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/RegularExpressionMatching">Regular Expression Matching</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/PalindromePartitioning">Minimum Cut Palindrome Partitioning</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/MaximalRectangleAreaInHistogram">Maximal Rectangle Area In Histogram</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/NthUglyNumbers">N-th Ugly Numbers</a></li>
 </ol>
 
 <h4>Graph</h4>
