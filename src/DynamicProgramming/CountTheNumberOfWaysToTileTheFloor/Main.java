@@ -7,6 +7,8 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println(numberOfWaysTileNMFloor(5, 2));
+        System.out.println(numberOfWaysTileNMFloor(9383, 886));
+        System.out.println(numberOfWaysTileNMFloor(2777, 6915));
 
     }
 
