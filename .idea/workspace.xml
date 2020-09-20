@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms-Implementation-In-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms-Implementation-In-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -254,7 +260,7 @@
       <workItem from="1600528255906" duration="24000" />
       <workItem from="1600531005781" duration="7164000" />
       <workItem from="1600568390140" duration="594000" />
-      <workItem from="1600617974708" duration="7768000" />
+      <workItem from="1600617974708" duration="7872000" />
     </task>
     <servers />
   </component>
@@ -322,6 +328,10 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2452" y="174" key="SettingsEditor/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1599466007525" />
+    <state x="2615" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600642687226">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2615" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600642687226" />
     <state x="2728" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600537159934">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>

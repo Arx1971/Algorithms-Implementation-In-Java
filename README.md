@@ -13,6 +13,7 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/NthUglyNumbers">N-th Ugly Numbers</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/NthCatalanNumbers">N-th Catalan Numbers</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/NumberOfWaysToPartitionASet">Number Of Ways To Partition A Set</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/GoldMineProblem">Maximum Gold Mining From Given Grid</a></li>
 </ol>
 
 <h4>Graph</h4>
