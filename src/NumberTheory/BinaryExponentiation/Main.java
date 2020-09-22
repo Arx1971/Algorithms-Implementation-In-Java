@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(new Linear().exponent(2, 3));
-        System.out.println(new LogN().exponent(3,14));
+        System.out.println(new LogN().exponent(3, 14));
     }
 
     public static class Linear {
@@ -25,14 +25,15 @@ public class Main {
 
         // running time of this algorithm is log(b) where is the exponent
 
-        public int exponent(int n, int b) {
-            int result = 1;
-            while (b > 0) {
-                if (b % 2 == 1) result *= n;
-                n *= n;
-                b /= 2;
+        public double exponent(double x, int n) {
+            double result = 1;
+            long posN = Math.abs((long) n);
+            while (posN > 0) {
+                if (posN % 2 == 1) result *= x;
+                x *= x;
+                posN /= 2;
             }
-            return result;
+            return n < 0 ? 1 / result : result;
         }
     }
 
