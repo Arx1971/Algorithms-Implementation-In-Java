@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithms/MergeSort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithms/MergeSort/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +65,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberTheory.NthFibonacci.Main" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.GoldMineProblem.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NumberTheory.NthFibonacci.*" />
+          <option name="PATTERN" value="DynamicProgramming.GoldMineProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.GoldMineProblem.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingAlgorithms.MergeSort.Main" />
       <module name="Algorithms-Implementation-In-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.GoldMineProblem.*" />
+          <option name="PATTERN" value="SortingAlgorithms.MergeSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +262,7 @@
       <workItem from="1600617974708" duration="9148000" />
       <workItem from="1600797812123" duration="3360000" />
       <workItem from="1600811705700" duration="676000" />
-      <workItem from="1600998319751" duration="337000" />
+      <workItem from="1600998319751" duration="783000" />
     </task>
     <servers />
   </component>
@@ -293,22 +294,22 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2722" y="297" key="FileChooserDialogImpl/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600625923598" />
-    <state width="343" height="952" key="GridCell.Tab.0.bottom" timestamp="1600811689259">
+    <state width="343" height="952" key="GridCell.Tab.0.bottom" timestamp="1600999095104">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="343" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600811689259" />
-    <state width="343" height="952" key="GridCell.Tab.0.center" timestamp="1600811689258">
+    <state width="343" height="952" key="GridCell.Tab.0.bottom/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600999095104" />
+    <state width="343" height="952" key="GridCell.Tab.0.center" timestamp="1600999095104">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="343" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600811689258" />
-    <state width="343" height="952" key="GridCell.Tab.0.left" timestamp="1600811689258">
+    <state width="343" height="952" key="GridCell.Tab.0.center/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600999095104" />
+    <state width="343" height="952" key="GridCell.Tab.0.left" timestamp="1600999095104">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="343" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600811689258" />
-    <state width="343" height="952" key="GridCell.Tab.0.right" timestamp="1600811689258">
+    <state width="343" height="952" key="GridCell.Tab.0.left/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600999095104" />
+    <state width="343" height="952" key="GridCell.Tab.0.right" timestamp="1600999095104">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state width="343" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600811689258" />
+    <state width="343" height="952" key="GridCell.Tab.0.right/1982.0.1858.1080/62.0.1858.1080@1982.0.1858.1080" timestamp="1600999095104" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1600477595787">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
