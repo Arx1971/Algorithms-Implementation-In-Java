@@ -98,6 +98,7 @@
 <ol>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/SortingAlgorithms/SortIndexByIndexValues">Sort Index By Index Values</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/SortingAlgorithms/QuickSort">QuickSort</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/SortingAlgorithms/MergeSort">MergeSort</a></li>
 </ol>
 
 <h4>Binary Search</h4>
