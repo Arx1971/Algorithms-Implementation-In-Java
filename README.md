@@ -16,6 +16,7 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/GoldMineProblem">Maximum Gold Mining From Given Grid</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/FriendPairingProblem">Friend Pairs Problem</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/RodCuttingProblem">Rod Cutting Problem</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/DynamicProgramming/CountNumbersOfWayToCoverADistance">Count Numbers Of Way To Cover A Distance</a></li>
 </ol>
 
 <h4>Graph</h4>
