@@ -65,6 +65,7 @@
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/PrimeNumberGriesAndMisra">Prime Number Gries And Misra</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/IntegerFactorization">Integer Factorization</a></li>
     <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/PrimeFactorization">Integer Factorization using Prime Numbers</a></li>
+    <li><a href="https://github.com/Arx1971/Algorithms-Implementation-In-Java/tree/master/src/NumberTheory/BinaryExponentiation">Binary Exponentiation</a></li>
 </ol>
 
 <h4>Advanced Data Structure</h4>
