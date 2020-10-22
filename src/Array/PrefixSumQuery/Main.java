@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println(new RangeQuery(new int[]{1, 2, 3, 4, 5}).getQuerySum(2, 3));
         System.out.println(new RangeQuery(new int[]{1, 2, 3, 4, 5}).getQuerySum(0, 4));
-        
+
     }
 
     public static class RangeQuery {

@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="93dd2cf5-bacc-41ba-a1af-b740ab3250fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/PrefixSumQuery/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/PrefixSumQuery/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -273,7 +274,7 @@
       <workItem from="1602567469118" duration="208000" />
       <workItem from="1602568060029" duration="687000" />
       <workItem from="1602619948623" duration="24000" />
-      <workItem from="1603358920029" duration="3802000" />
+      <workItem from="1603358920029" duration="4441000" />
     </task>
     <servers />
   </component>
